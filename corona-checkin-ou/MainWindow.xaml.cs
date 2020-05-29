@@ -2,15 +2,6 @@
 using System.Windows;
 using System.Windows.Controls;
 
-/// <todo>
-/// BUGFIXES:
-/// 
-/// if checkout is used when already 0
-/// no checkin will work
-/// ------------------------------------
-/// 
-/// </todo>
-
 namespace corona_checkin_ou
 {
     /// <summary>
@@ -20,7 +11,6 @@ namespace corona_checkin_ou
     {
         private int maxPersons = 0;
         private const int scale = 2;
-        //private const int upperlimit = 10000;
 
         public MainWindow()
         {
@@ -72,12 +62,6 @@ namespace corona_checkin_ou
         //Get maximum amount of persons (half of total persons)
         private void PersonCounter_TextChanged(object sender, TextChangedEventArgs e)
         {
-            //get pb.maximum
-            if(IsNum())
-            {
-                pb.Maximum = Math.Floor(Convert.ToDouble(PersonCounter.Text) / scale);
-            }
-            
             //if empty set to 0
             if (PersonCounter.Text == "")
             {
@@ -92,6 +76,8 @@ namespace corona_checkin_ou
             }
             else
             {
+                //get pb.maximum
+                pb.Maximum = Math.Floor(Convert.ToDouble(PersonCounter.Text) / scale);
                 maxPersons =  Convert.ToInt32(PersonCounter.Text) / scale;
             }
         }
