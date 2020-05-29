@@ -1,0 +1,15 @@
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\bin\Debug\corona-checkin-ou.exe.config
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\bin\Debug\corona-checkin-ou.exe
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\bin\Debug\corona-checkin-ou.pdb
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.csprojAssemblyReference.cache
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\MainWindow.g.cs
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\App.g.cs
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou_MarkupCompile.cache
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou_MarkupCompile.lref
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\MainWindow.baml
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.g.resources
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona_checkin_ou.Properties.Resources.resources
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.csproj.GenerateResource.cache
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.csproj.CoreCompileInputs.cache
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.exe
+C:\Users\c1tru5x\source\repos\corona-checkin-ou\corona-checkin-ou\obj\Debug\corona-checkin-ou.pdb
